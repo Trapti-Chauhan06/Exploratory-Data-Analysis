@@ -79,4 +79,6 @@ The **Screenshots** folder contains images of:
 ## Conclusion
 
 This Exploratory Data Analysis identified important patterns, trends, and relationships within the Titanic dataset using statistical summaries and visualizations. The analysis provides a strong foundation for further predictive modeling and data-driven decision-making.
+## Dashboard
+![Dashboard](Screenshot.png)
 

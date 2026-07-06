@@ -49,6 +49,6 @@ The objective of this task is to perform Exploratory Data Analysis (EDA) on the 
 
 This Exploratory Data Analysis identified important patterns, trends, and relationships within the Titanic dataset using statistical summaries and visualizations. The analysis provides a strong foundation for further predictive modeling and data-driven decision-making.
 
-## Dashboard
-![Dashboard](Screenshots.png)
+## Screenshots
+![Open Screenshots Folder](./Screenshots/)
 

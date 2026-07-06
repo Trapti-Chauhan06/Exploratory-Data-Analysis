@@ -45,40 +45,10 @@ The objective of this task is to perform Exploratory Data Analysis (EDA) on the 
 - First-class passengers had a better survival rate than lower-class passengers.
 - Passenger Class showed a negative correlation with survival, while Fare had a weak positive correlation with survival.
 
-## Project Structure
-
-Task-5-Exploratory-Data-Analysis/
-│
-├── Exploratory Data Analysis.ipynb
-├── Titanic.csv
-├── EDA_Report.pdf
-├── README.md
-└── Screenshots/
-    ├── Dataset Preview.png
-    ├── Dataset Information.png
-    ├── Histogram.png
-    ├── Boxplot.png
-    ├── Heatmap.png
-    ├── Pairplot.png
-    ├── Scatterplot.png
-    └── Countplots.png
-## Screenshots
-
-The **Screenshots** folder contains images of:
-- Dataset Preview
-- Dataset Information
-- Missing Value Handling
-- Histogram
-- Boxplots
-- Heatmap
-- Pairplot
-- Scatter Plot
-- Countplots
-- Summary
-
 ## Conclusion
 
 This Exploratory Data Analysis identified important patterns, trends, and relationships within the Titanic dataset using statistical summaries and visualizations. The analysis provides a strong foundation for further predictive modeling and data-driven decision-making.
+
 ## Dashboard
 ![Dashboard](Screenshot.png)
 
